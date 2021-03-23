@@ -15,5 +15,5 @@ The aim of the project is apart from the main goal is to provide a monitoring to
 * Arduino
 * 4 Buttons
 * Servo Mottor
-* 2 pir sensors
+* 2 PIR sensors
 * 1 Temperature sensor
